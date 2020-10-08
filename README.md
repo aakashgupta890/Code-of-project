@@ -1,4 +1,3 @@
-
 #include "certs.h"
 #include <WiFiClientSecure.h>
 #include <MQTTClient.h>
